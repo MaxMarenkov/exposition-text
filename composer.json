@@ -1,5 +1,5 @@
 {
-  "name": "openmetrics-php/exposition-text",
+  "name": "max-marenkov/exposition-text",
   "description": "Implementation of the text exposition format of OpenMetrics",
   "minimum-stability": "stable",
   "type": "library",
