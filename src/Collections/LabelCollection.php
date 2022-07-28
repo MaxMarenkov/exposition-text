@@ -62,6 +62,7 @@ final class LabelCollection implements Countable, IteratorAggregate
 		}
 	}
 
+	#[\ReturnTypeWillChange]
 	public function getIterator() : iterable
 	{
 		yield from $this->labels;
